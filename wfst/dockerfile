@@ -1,0 +1,21 @@
+FROM ubuntu
+
+# Update the repository sources list
+RUN apt-get update
+# Install and run apache
+RUN apt-get install -y gdal-bin
+RUN apt-get install -y python3
+RUN apt-get install -y python3-pip
+RUN apt-get install -y python3-gdal && apt-get clean
+
+# move files to dir
+WORKDIR /app
+COPY ./code /app
+
+RUN pip3 install -r requirements.txt
+
+EXPOSE 80
+EXPOSE 8080
+EXPOSE 8081
+
+CMD ["python3", "-u", "wfst.py"]
