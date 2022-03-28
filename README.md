@@ -1,9 +1,9 @@
 # FindingPlaces Backend
 Finding Places was a cooperation project of the HafenCity University and the City of Hamburg. In the period from May 26thto July 15th2016 the people of Hamburg were – in numerous participatory workshops with FindingPlaces CityScopes – searching for public areas suitable for the construction of accommodation for refugees. The task: to find areas which allow the accommodation of 20,000 refugees in total.
 
-![FindingPLaces Intro Video](https://drive.google.com/uc?export=view&id=1nC_K1aOcy_JmPSLgZM0zLR7ngADG6-uv)
+![FindingPLaces Intro Video](https://cloud.hcu-hamburg.de/nextcloud/s/KBTLA45KmcRyimM)
 
-[Clicke here](https://drive.google.com/file/d/1nC_K1aOcy_JmPSLgZM0zLR7ngADG6-uv/view?usp=sharing) if the video doesn't load.
+[Clicke here](https://cloud.hcu-hamburg.de/nextcloud/s/KBTLA45KmcRyimM) if the video doesn't load.
 
 The project aimed to encourage a city-wide dialogue on how and where to find accommodation for a large group of refugees arriving in Hamburg. At the same time, it showcased the complexity of planning processes and thus helped develop an increased acceptance within the civil society. This led to a rewarding combination of the participants’ local knowledge and the expertise of the authorities and science. The participatory workshops not only led to the discussion of specific locations, but rather encouraged a discourse in the context of different interests (living / industry / maintenance) and legal planning requirements.  
 
