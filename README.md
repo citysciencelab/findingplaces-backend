@@ -1,4 +1,7 @@
 # FindingPlaces Backend
+
+![findingplaces_08_(c)WalterSchießwohl](https://user-images.githubusercontent.com/36763878/161696183-8b254698-5768-4e44-b0d2-ec3700a17ccf.jpg)
+
 Finding Places was a cooperation project of the HafenCity University and the City of Hamburg. In the period from May 26thto July 15th2016 the people of Hamburg were – in numerous participatory workshops with FindingPlaces CityScopes – searching for public areas suitable for the construction of accommodation for refugees. The task: to find areas which allow the accommodation of 20,000 refugees in total.
 
 https://user-images.githubusercontent.com/36763878/161037708-c9f8709b-7abd-47fe-b10c-bf613f0f19ea.mp4
